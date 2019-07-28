@@ -23,7 +23,7 @@ What things you need to install the software and how to install them
 - [Node.js](https://nodejs.org/en/download/)
 - [Payment Gateway Server](https://github.com/angelospillos/node-api-oauth-server-payment-gateway)
 
-### Setup and Manual Testing (TODO unit tests)
+### Setup and Manual Testing (TODO unit tests, for now use the Server)
 
 To use the library you need to first 
 - Clone the Payment Gateway Server from https://github.com/angelospillos/node-api-oauth-server-payment-gateway
