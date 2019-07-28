@@ -21,7 +21,7 @@ What things you need to install the software and how to install them
 
 - [Visual Studio Code](https://code.visualstudio.com/)
 - [Node.js](https://nodejs.org/en/download/)
-- [Payment Gateway](https://github.com/angelospillos/node-api-oauth-server-payment-gateway)
+- [Payment Gateway Server](https://github.com/angelospillos/node-api-oauth-server-payment-gateway)
 
 ### Setup
 
