@@ -28,7 +28,7 @@ What things you need to install the software and how to install them
 To use the library you need to first 
 - Clone the Payment Gateway Server from https://github.com/angelospillos/node-api-oauth-server-payment-gateway
 - Start using it by simply running `npm install` and `npm start`.
-- Then you can use this library to interact with it.
+- Then you can use this library to interact with it running `node .\examples.js`.
 
 ## Usage (examples.js)
 There is already an examples.js file so you can start using it right away assuming the API is started on port 8080;
