@@ -215,10 +215,7 @@ In caseof an error (both client 4xx and server 5xx), response will contain an ob
 ```
 
 The source folder contains sub-folders that arrange the application into logical
-layers as suggested by the
-[Hexagonal Architecture](http://alistair.cockburn.us/Hexagonal+architecture)
-(a.k.a. the
-[Onion Architecture](http://jeffreypalermo.com/blog/the-onion-architecture-part-1/)):
+layers as suggested by the Onion Architecture.
 
 -   `operations` An API support different operations such us, payments, refunds, reversals etc.
 The operations folder contains the different CRUD operations that are supported per type of CRUD.
