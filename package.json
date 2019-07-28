@@ -1,0 +1,14 @@
+{
+  "name": "payment-service-sdk",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "run": "echo \"Check out README.md\" && exit 1"
+  },
+  "author": "Angelos Pillos",
+  "license": "MIT",
+  "dependencies": {
+    "request": "^2.88.0"
+  }
+}
